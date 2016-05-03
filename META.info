@@ -1,0 +1,14 @@
+{
+    "name" : "BlockAlgebra",
+    "description" : "Algebraic operations for Block",
+    "version" : "0.0.1",
+    "perl"    : "6.c",
+    "license" : "Artistic",
+    "auth" : "github:grondilu",
+    "provides": {
+        "BlockAlgebra":                            "lib/BlockAlgebra.pm6"
+    },
+    "authors" : [ "Lucien Grondin" ],
+    "depends" : [ ],
+    "source-url" : "git://github.com/grondilu/clifford.git"
+}
